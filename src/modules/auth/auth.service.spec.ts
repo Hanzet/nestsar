@@ -17,6 +17,7 @@ describe('AuthService', () => {
     email: 'ana@example.com',
     password: '',
     name: 'Ana',
+    roleId: null,
     createdAt: new Date('2026-01-01'),
     updatedAt: new Date('2026-01-01'),
   };

@@ -95,7 +95,7 @@ Los parámetros de ruta y query se documentan con `@ApiParam` y `@ApiQuery` cuan
 |---------|----------|---------------------------------|----------------------------|
 | auth    | `auth`   | `GET /auth/profile`             | pendiente                  |
 | roles   | `roles`  | ninguno                         | pendiente (stubs)          |
-| users   | —        | sin controlador HTTP            | no aplica                  |
+| users   | `users`  | todos (CRUD completo)           | pendiente                  |
 
 ## 6. Checklist para un endpoint nuevo
 
